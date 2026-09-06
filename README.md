@@ -113,6 +113,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ExtendsClass](https://extendsclass.com/regex-tester.html) - PHP/Python/Ruby/JavaScript regex matching.
 - [Regexr](http://www.regexr.com/) - JavaScript regex matching.
 - [Regulex](https://jex.im/regulex) - JavaScript Regular Expression Visualizer.
+- [Regex Tester & Explainer](https://samtoolkit.com/tools/regex-tester) - Test a regex against sample text with a plain-English breakdown.
 
 ### Transformation
 
