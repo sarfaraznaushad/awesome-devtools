@@ -31,6 +31,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html) - Collection of responsive web design patterns.
 - [transition.css](https://www.transition.style) - Drop-in CSS transitions
 - [Type Fluidity](https://wearerequired.github.io/fluidity) - Fluid typography `clamp` value generator
+- [CSS Effect Generators](https://samtoolkit.com/tools/css-generators) - Visually build box-shadow, gradient and border-radius values.
 
 ### Debug JavaScript
 
